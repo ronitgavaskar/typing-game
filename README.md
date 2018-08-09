@@ -1,5 +1,5 @@
 Many of you know the classing game typeracer. I want to use what I learn from iOS and Swift to create my own app for typing test. 
-
+ 
 The end product will essentially consist of three different levels:
 (i) easy
 (ii) medium
